@@ -1,0 +1,22 @@
+div
+{
+    height:200px;
+    width:200px;
+    margin-top: 10px;
+    background-color: rgba(77, 255, 0, 0.633);
+}
+#opacity
+{
+    background-color: #ffa511;
+    opacity: 1;
+}
+div:hover
+{
+    background-color: black;
+    transition:1s;
+    transition-delay: 1s;
+    border-radius: 50%;
+    
+}
+
+/* setting alpha value 0 removes the color but setting opacity 0 removes the text color everything  */

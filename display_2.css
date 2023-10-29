@@ -1,0 +1,15 @@
+span{
+    /* background-color: lime; */
+    border: 2px solid black;
+    height: 100px;
+    width: 200px;
+    padding: 50px;/*for inline element padding ,margin is set only for left and right */
+    margin: 20pxs;
+}
+div
+{
+    border: 2px solid black;
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+}

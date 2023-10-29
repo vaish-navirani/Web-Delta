@@ -1,0 +1,27 @@
+*  /*Universal selector*/
+{
+    font-family:'Courier New';
+}
+h1 /*element selector*/
+{
+    color:#1b74e4 !important;
+}
+.userbtn  /*Class selector*/
+{
+    background-color: aqua;
+}
+/* #login,#register above can also be done as
+{
+    background-color: aqua;
+} */
+#searchbtn  /*id selector*/
+{
+    background-color: black;
+    color: white;
+}
+h1
+{
+    background-color: red;
+
+}
+/* as h1 is prev declkared as important blue no other color will be applied to its background */

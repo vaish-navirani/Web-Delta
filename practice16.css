@@ -1,0 +1,15 @@
+div
+{
+    height: 150px;
+    width: 300px;
+    background-color: grey;
+    border: 5px dotted black;
+    /* margin-top: 20px;
+    margin-right: 1em ;
+    margin-bottom: 40px;
+    margin-left: 2em; */
+    margin: 20px 1em 40px 2em;
+    /* relative to the font size of the nearest parent element that has a defined font size. If no parent has a 
+    font size set, it's based on the default font size of the browser, typically 16 pixels. */
+    padding: 1em; 
+}

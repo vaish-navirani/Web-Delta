@@ -1,0 +1,23 @@
+/* div:nth-of-type(3)
+{
+    background-color: blue;
+}
+p
+{
+    background-color: yellow;
+} */
+
+div
+{
+    background-color: yellow;
+}
+/* form{
+    background-color: red;
+} */
+input,button
+{
+    background-color: inherit;
+}
+button:hover{
+    background-color: red;
+}
